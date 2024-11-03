@@ -1,0 +1,165 @@
+img{
+    border-style: solid;
+    border-color: beige;
+    border-width: 5px;
+}
+
+  
+  .p{
+    font-family: "Bai Jamjuree", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+
+  .bg2 {
+    background-image: url("../images/Promo\ Poster.jpg");
+    background-repeat: no-repeat ;
+    background-color : rgb(237, 229, 218);
+   background-size: 100%;
+  }
+
+  .bg1 {
+    background-repeat: repeat-y ;
+    background-color : rgb(237, 229, 218);
+    background-size: 100%;
+  }
+
+  .pic{
+   height: auto;
+  
+
+  }
+ 
+  .indent2{  
+    text-indent: 60px;
+    text-align: justify;
+ }
+
+ .indent3{  
+  text-indent: 150px;
+  text-align: justify;
+}
+
+ .t {
+  font-family: "Protest Strike", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+  font-size: 300px;
+}
+
+.anton{
+  font-family: "Anton", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+
+
+.m {
+  font-family: "Merriweather", serif;
+  font-weight: 1000;
+  font-style: normal;
+  font-size: 1000px;
+}
+
+.c{
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  margin: auto;
+  width: 500;
+}
+
+
+.warning {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+
+main{
+  font-size: 50;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.indent1 {
+  text-indent: 30px;
+  text-align: justify;
+}
+
+.box {
+  width: 70%;
+  background-color: beige;
+  box-shadow: 0 5px 0 rgba(rgb(208, 174, 174), rgb(187, 185, 164), rgb(213, 208, 189), alpha);
+  padding: 15px 15px 15px 15px;
+}
+
+.box2 {
+  width: 90%;
+  background-color: rgb(243, 240, 232);
+  box-shadow: 0 5px 0 rgba(rgb(208, 174, 174), rgb(187, 185, 164), rgb(213, 208, 189), alpha);
+  padding: 10px 10px 10px 10px;
+  margin: 10px;
+}
+
+
+
+.box3 {
+  background-color: aliceblue;
+  border: dotted 2px cadetblue;
+  width: 80px;
+  height: 80px;        
+}
+.box4 {
+  width: 50%;
+  background-color: rgb(190, 188, 180);
+  box-shadow: 0 5px 0 rgba(rgb(208, 174, 174), rgb(187, 185, 164), rgb(213, 208, 189), alpha);
+  padding: 5px 5px 5px 5px;
+  margin: 10px;
+}
+.c2{
+  align-items: center;
+  
+}
+
+.t23{
+  margin-left: 20%;
+  justify-items: auto;
+}
+
+
+.t24{
+  margin-left: 12%;
+  justify-items: auto;
+}
+
+.c3{
+   align-items: auto;
+
+}
+
+.text-title{
+  text-align: left;
+  padding-left: 20%;
+}
+
+.c4{
+  margin-left: 1%;
+
+}
+
+.c5{
+  margin-left: 20%;
+padding-right: 2%;  
+
+}
+
+.c6{
+  margin-left: 20%;
+
+}
